@@ -1,4 +1,5 @@
 # SafeGuard_ideathon
+## 멋쟁이사자처럼 11기 중앙아이디어톤 제출 작품 <모지>
 
 ![슬라이드1](https://github.com/Se0-hyun/SafeGuard_ideathon/assets/80439045/44c98967-5ba4-44b1-887b-26067a0096dc)
 ![슬라이드2](https://github.com/Se0-hyun/SafeGuard_ideathon/assets/80439045/20f0a1b3-5fbe-4425-a28d-1bb5808c5e5d)
